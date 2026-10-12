@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Loop Live",
+  "description": "Native Android app for phone-direct infinite loop YouTube Live streaming with zero re-encoding during loops, battery optimization, and multi-destination support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
